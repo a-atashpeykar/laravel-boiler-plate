@@ -8,6 +8,6 @@ class CreateUserAction
 {
     public function store(Request $request)
     {
-
+        dd('hi');
      }
 }
